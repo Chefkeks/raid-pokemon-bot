@@ -18,91 +18,91 @@
                 "PT-BR": "TRANSLATE"
         },
 	"quest" : {
-		"NL": "TRANSLATE",
+		"NL": "Quest",
 		"DE": "Forschung",
 		"EN": "Quest",
 		"PT-BR": "TRANSLATE"
 	},
         "quest_by_pokestop" : {
-                "NL": "TRANSLATE",
+                "NL": "Maak een quest, selecteer een pokestop:",
                 "DE": "Lege eine Forschung per Pokestop-Auswahl an:",
                 "EN": "Make a quest per pokestop selection:",
                 "PT-BR": "TRANSLATE"
         },
         "quest_select_type" : {
-                "NL": "TRANSLATE",
+                "NL": "Selecteer een quest type:",
                 "DE": "Art der Forschung auswählen:",
                 "EN": "Select the quest type:",
                 "PT-BR": "TRANSLATE"
         },
         "quest_select_qty_action" : {
-                "NL": "TRANSLATE",
+                "NL": "Selecteer de taak van de quest:",
                 "DE": "Aufgabe der Forschung auswählen:",
                 "EN": "Select the task of the quest:",
                 "PT-BR": "TRANSLATE"
         },
         "quest_saved" : {
-                "NL": "TRANSLATE",
+                "NL": "Quest opgeslagen:",
                 "DE": "Forschung gespeichert:",
                 "EN": "Quest saved:",
                 "PT-BR": "TRANSLATE"
         },
         "quests_today" : {
-                "NL": "TRANSLATE",
+                "NL": "De quests van vandaag:",
                 "DE": "Heutige Forschungen:",
                 "EN": "Today's quests:",
                 "PT-BR": "TRANSLATE"
         },
         "no_quests_today" : {
-                "NL": "TRANSLATE",
+                "NL": "Vandaag zijn er nog geen quests!",
                 "DE": "Heute gibt es noch keine Forschungen!",
                 "EN": "Today there are no quests yet!",
                 "PT-BR": "TRANSLATE"
         },
         "quest_already_submitted" : {
-                "NL": "TRANSLATE",
+                "NL": "Quest voor deze pokestop is al aangemeld!",
                 "DE": "Forschung für diesen Pokestop ist bereits vorhanden!",
                 "EN": "Quest for this pokestop was already submitted!",
                 "PT-BR": "TRANSLATE"
         },
         "select_quest_to_delete" : {
-                "NL": "TRANSLATE",
+                "NL": "Selecteer een queest om te verwijderen:",
                 "DE": "Zum Löschen Forschung auswählen:",
                 "EN": "Select quest to delete:",
                 "PT-BR": "TRANSLATE"
         },
         "delete_this_quest" : {
-                "NL": "TRANSLATE",
+                "NL": "Weet u het zeker dat u deze quest wilt verwijderen?",
                 "DE": "Diese Forschung wirklich löschen?",
                 "EN": "Really delete this quest?",
                 "PT-BR": "TRANSLATE"
         },
         "quest_deletion_was_canceled" : {
-                "NL": "TRANSLATE",
+                "NL": "Verwijderen van de quest is geannuleerd!",
                 "DE": "Löschung der Forschung wurde abgebrochen!",
                 "EN": "Deletion of the quest was canceled!",
                 "PT-BR": "TRANSLATE"
         },
         "quest_successfully_deleted" : {
-                "NL": "TRANSLATE",
+                "NL": "Quest is succesvol verwijderd!",
                 "DE": "Forschung wurde erfolgreich gelöscht!",
                 "EN": "Quest was successfully deleted!",
                 "PT-BR": "TRANSLATE"
         },
 	"reward" : {
-		"NL": "TRANSLATE",
+		"NL": "Beloning",
 		"DE": "Belohnung",
 		"EN": "Reward",
 		"PT-BR": "TRANSLATE"
 	},
         "reward_select_type" : {
-                "NL": "TRANSLATE",
+                "NL": "Selecteer het type beloning:",
                 "DE": "Art der Belohnung auswählen:",
                 "EN": "Select the reward type:",
                 "PT-BR": "TRANSLATE"
         },
         "reward_select_qty_reward" : {
-                "NL": "TRANSLATE",
+                "NL": "Selecteer de beloning:",
                 "DE": "Belohnung auswählen:",
                 "EN": "Select reward:",
                 "PT-BR": "TRANSLATE"

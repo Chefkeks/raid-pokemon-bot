@@ -1,32 +1,44 @@
-
-/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
-/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
-/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
-/*!40101 SET NAMES utf8 */;
-/*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;
-/*!40103 SET TIME_ZONE='+00:00' */;
-/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;
-/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
-/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
-/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
-/*!40101 SET @saved_cs_client     = @@character_set_client */;
-/*!40101 SET character_set_client = utf8 */;
-/*!40101 SET character_set_client = @saved_cs_client */;
-
-LOCK TABLES `quests_questlist` WRITE;
-/*!40000 ALTER TABLE `quests_questlist` DISABLE KEYS */;
-INSERT INTO `quests_questlist` VALUES (1,1,1,1);
-INSERT INTO `quests_questlist` VALUES (2,1,3,1);
-INSERT INTO `quests_questlist` VALUES (3,1,5,1);
-/*!40000 ALTER TABLE `quests_questlist` ENABLE KEYS */;
-UNLOCK TABLES;
-/*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
-
-/*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
-/*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
-/*!40014 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS */;
-/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
-/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
-/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
-/*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
-
+INSERT INTO `quests_questlist` (`id`, `quest_type`, `quest_quantity`, `quest_action`) VALUES
+(1, 1, 1, 1),
+(2, 1, 3, 1),
+(3, 1, 5, 1),
+(4, 5, 5, 9),
+(5, 5, 3, 8),
+(6, 5, 3, 11),
+(7, 5, 3, 7),
+(8, 5, 5, 10),
+(9, 5, 3, 6),
+(10, 9, 1, 3),
+(11, 9, 5, 3),
+(12, 9, 7, 3),
+(13, 7, 7, 3),
+(14, 2, 6, 2),
+(15, 6, 1, 20),
+(16, 6, 3, 16),
+(17, 6, 3, 18),
+(18, 6, 3, 19),
+(19, 6, 3, 17),
+(20, 6, 3, 26),
+(21, 6, 3, 22),
+(22, 6, 3, 24),
+(23, 6, 3, 21),
+(24, 6, 3, 23),
+(25, 6, 3, 27),
+(26, 6, 3, 29),
+(27, 6, 3, 25),
+(28, 6, 5, 27),
+(29, 6, 5, 23),
+(30, 6, 5, 30),
+(31, 6, 10, 30),
+(32, 6, 20, 30),
+(33, 6, 10, 4),
+(34, 4, 1, 4),
+(35, 4, 5, 4),
+(36, 4, 3, 5),
+(37, 8, 1, 14),
+(38, 8, 3, 14),
+(39, 8, 5, 14),
+(40, 8, 1, 13),
+(41, 8, 1, 15),
+(42, 8, 5, 15),
+(43, 10, 1, 28);

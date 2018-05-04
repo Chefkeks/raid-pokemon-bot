@@ -1,32 +1,308 @@
 {
 	"quest_action_1" : {
-		"NL": "TRANSLATE",
+		"NL": "Egg:Eggs",
 		"DE": "Ei aus:Eier aus",
 		"EN": "Egg:Eggs",
 		"PT-BR": "TRANSLATE"
 	},
+	"quest_action_2" : {
+		"NL": "Pokestop you have not visited before:Pokestop you have not visited before",
+		"DE": "TRANSLATE",
+		"EN": "Pokestop you have not visited before:Pokestop you have not visited before",
+		"PT-BR": "TRANSLATE"
+	},
+	"quest_action_3" : {
+		"NL": "time:times",
+		"DE": "TRANSLATE",
+		"EN": "time:times",
+		"PT-BR": "TRANSLATE"
+	},
+	"quest_action_4" : {
+		"NL": "pokemon:pokemon",
+		"DE": "TRANSLATE",
+		"EN": "pokemon:pokemon",
+		"PT-BR": "TRANSLATE"
+	},
+	"quest_action_5" : {
+		"NL": "Electic type pokemon:Electic type pokemon",
+		"DE": "TRANSLATE",
+		"EN": "Electic type pokemon:Electic type pokemon",
+		"PT-BR": "TRANSLATE"
+	},
+	"quest_action_6" : {
+		"NL": "excellent throw in a row:excellent throws in a row",
+		"DE": "TRANSLATE",
+		"EN": "excellent throw in a row:excellent throws in a row",
+		"PT-BR": "TRANSLATE"
+	},
+	"quest_action_7" : {
+		"NL": "Great Curveball Throw in a row:Great Curveball Throws in a row",
+		"DE": "TRANSLATE",
+		"EN": "Great Curveball Throw in a row:Great Curveball Throws in a row",
+		"PT-BR": "TRANSLATE"
+	},
+		"quest_action_8" : {
+		"NL": "nice Curveball Throw in a Row:nice Curveball Throws in a Row",
+		"DE": "TRANSLATE",
+		"EN": "nice Curveball Throw in a Row:nice Curveball Throws in a Row",
+		"PT-BR": "TRANSLATE"
+	},
+		"quest_action_9" : {
+		"NL": "nice throw:nice throws",
+		"DE": "TRANSLATE",
+		"EN": "nice throw:nice throws",
+		"PT-BR": "TRANSLATE"
+	},
+		"quest_action_10" : {
+		"NL": "great throw in a row:great throws in a row",
+		"DE": "TRANSLATE",
+		"EN": "great throw in a row:great throws in a row",
+		"PT-BR": "TRANSLATE"
+	},
+		"quest_action_11" : {
+		"NL": "great throw:great throws",
+		"DE": "TRANSLATE",
+		"EN": "great throw:great throws",
+		"PT-BR": "TRANSLATE"
+	},
+		"quest_action_12" : {
+		"NL": "battle:battles",
+		"DE": "TRANSLATE",
+		"EN": "battle:battles",
+		"PT-BR": "TRANSLATE"
+	},
+	"quest_action_13" : {
+		"NL": "gymbattle:gymbattles",
+		"DE": "TRANSLATE",
+		"EN": "gymbattle:gymbattles",
+		"PT-BR": "TRANSLATE"
+	},
+	"quest_action_14" : {
+		"NL": "In a gym:In a gym",
+		"DE": "TRANSLATE",
+		"EN": "In a gym:In a gym",
+		"PT-BR": "TRANSLATE"
+	},
+	"quest_action_15" : {
+		"NL": "raid:raids",
+		"DE": "TRANSLATE",
+		"EN": "raid:raids",
+		"PT-BR": "TRANSLATE"
+	},
+	"quest_action_16" : {
+		"NL": "oddish or bellsprout:oddish or bellsprout",
+		"DE": "TRANSLATE",
+		"EN": "oddish or bellsprout:oddish or bellsprout",
+		"PT-BR": "TRANSLATE"
+	},
+	"quest_action_17" : {
+		"NL": "Meoth or Skitty:Meoth or Skitty",
+		"DE": "TRANSLATE",
+		"EN": "Meoth or Skitty:Meoth or Skitty",
+		"PT-BR": "TRANSLATE"
+	},
+	"quest_action_18" : {
+		"NL": "pidgey or murkrow:pidgey or murkrow",
+		"DE": "TRANSLATE",
+		"EN": "pidgey or murkrow:pidgey or murkrow",
+		"PT-BR": "TRANSLATE"
+	},
+	"quest_action_19" : {
+		"NL": "treeko or mudkip:treeko or mudkip",
+		"DE": "TRANSLATE",
+		"EN": "treeko or mudkip:treeko or mudkip",
+		"PT-BR": "TRANSLATE"
+	},
+		"quest_action_20" : {
+		"NL": "dragon type:dragon type",
+		"DE": "TRANSLATE",
+		"EN": "dragon type:dragon type",
+		"PT-BR": "TRANSLATE"
+	},
+	"quest_action_21" : {
+		"NL": "electric type:electric type",
+		"DE": "TRANSLATE",
+		"EN": "electric type:electric type",
+		"PT-BR": "TRANSLATE"
+	},
+	"quest_action_22" : {
+		"NL": "bug type:bug type",
+		"DE": "TRANSLATE",
+		"EN": "bug type:bug type",
+		"PT-BR": "TRANSLATE"
+	},
+	"quest_action_23" : {
+		"NL": "flying type:flying type",
+		"DE": "TRANSLATE",
+		"EN": "flying type:flying type",
+		"PT-BR": "TRANSLATE"
+	},
+	"quest_action_24" : {
+		"NL": "dark type:dark type",
+		"DE": "TRANSLATE",
+		"EN": "dark type:dark type",
+		"PT-BR": "TRANSLATE"
+	},
+	"quest_action_25" : {
+		"NL": "grass-, Ground- or Fire-type:grass-, Ground- or Fire-type",
+		"DE": "TRANSLATE",
+		"EN": "grass-, Ground- or Fire-type:grass-, Ground- or Fire-type",
+		"PT-BR": "TRANSLATE"
+	},
+	"quest_action_26" : {
+		"NL": "poison type:poison type",
+		"DE": "TRANSLATE",
+		"EN": "poison type:poison type",
+		"PT-BR": "TRANSLATE"
+	},
+	"quest_action_27" : {
+		"NL": "fire type:fire type",
+		"DE": "TRANSLATE",
+		"EN": "fire type:fire type",
+		"PT-BR": "TRANSLATE"
+	},
+	"quest_action_28" : {
+		"NL": "Candy for Walking with your buddy:Candies for Walking with your buddy",
+		"DE": "TRANSLATE",
+		"EN": "Candy for Walking with your buddy:Candies for Walking with your buddy",
+		"PT-BR": "TRANSLATE"
+	},
+	"quest_action_29" : {
+		"NL": "Water-, Electric- or Bug-type:Water-, Electric- or Bug-type",
+		"DE": "TRANSLATE",
+		"EN": "Water-, Electric- or Bug-type:Water-, Electric- or Bug-type",
+		"PT-BR": "TRANSLATE"
+	},
+	"quest_action_30" : {
+		"NL": "Pokemon with weatherboost:Pokemon with weatherboost",
+		"DE": "TRANSLATE",
+		"EN": "Pokemon with weatherboost:Pokemon with weatherboost",
+		"PT-BR": "TRANSLATE"
+	},
 	"quest_type_1" : {
-		"NL": "TRANSLATE",
+		"NL": "Hatch",
 		"DE": "Brüte",
 		"EN": "Hatch",
 		"PT-BR": "TRANSLATE"
 	},
+	"quest_type_2" : {
+		"NL": "Spin",
+		"DE": "TRANSLATE",
+		"EN": "Spin",
+		"PT-BR": "TRANSLATE"
+	},
+	"quest_type_3" : {
+		"NL": "power up",
+		"DE": "TRANSLATE",
+		"EN": "power up",
+		"PT-BR": "TRANSLATE"
+	},
+	"quest_type_4" : {
+		"NL": "evolve",
+		"DE": "TRANSLATE",
+		"EN": "evolve",
+		"PT-BR": "TRANSLATE"
+	},
+	"quest_type_5" : {
+		"NL": "make",
+		"DE": "TRANSLATE",
+		"EN": "make",
+		"PT-BR": "TRANSLATE"
+	},
+	"quest_type_6" : {
+		"NL": "catch",
+		"DE": "TRANSLATE",
+		"EN": "catch",
+		"PT-BR": "TRANSLATE"
+	},
+	"quest_type_7" : {
+		"NL": "Use A supereffective Charged Move in a gym",
+		"DE": "TRANSLATE",
+		"EN": "Use A supereffective Charged Move in a gym",
+		"PT-BR": "TRANSLATE"
+	},
+	"quest_type_8" : {
+		"NL": "battle/Win",
+		"DE": "TRANSLATE",
+		"EN": "battle/Win",
+		"PT-BR": "TRANSLATE"
+	},
+	"quest_type_9" : {
+		"NL": "Power-up",
+		"DE": "TRANSLATE",
+		"EN": "Power-up",
+		"PT-BR": "TRANSLATE"
+	},
+	"quest_type_10" : {
+		"NL": "Earn",
+		"DE": "TRANSLATE",
+		"EN": "Earn",
+		"PT-BR": "TRANSLATE"
+	},
+	"quest_type_11" : {
+		"NL": "make super effective charged attack in",
+		"DE": "TRANSLATE",
+		"EN": "make super effective charged attack in",
+		"PT-BR": "TRANSLATE"
+	},
         "reward_type_1" : {
-                "NL": "TRANSLATE",
+                "NL": "Pokemon:Pokemon",
                 "DE": "Pokemon:Pokemon",
                 "EN": "Pokemon:Pokemon",
                 "PT-BR": "TRANSLATE"
         },
         "reward_type_2" : {
-                "NL": "TRANSLATE",
+                "NL": "Pokeball:Pokeballs",
                 "DE": "Pokeball:Pokebälle",
                 "EN": "Pokeball:Pokeballs",
                 "PT-BR": "TRANSLATE"
         },
         "reward_type_3" : {
-                "NL": "TRANSLATE",
+                "NL": "Berry:Berries",
                 "DE": "Beere:Beeren",
                 "EN": "Berry:Berries",
+                "PT-BR": "TRANSLATE"
+        },
+        "reward_type_4" : {
+                "NL": "Stardust:Stardust",
+                "DE": "TRANSLATE",
+                "EN": "Stardust:Stardust",
+                "PT-BR": "TRANSLATE"
+        },
+        "reward_type_5" : {
+                "NL": "Rare candy:Rare candies",
+                "DE": "TRANSLATE",
+                "EN": "Rare candy:Rare candies",
+                "PT-BR": "TRANSLATE"
+        },
+        "reward_type_6" : {
+                "NL": "Fast TM:Fast TMs",
+                "DE": "TRANSLATE",
+                "EN": "Fast TM:Fast TMs",
+                "PT-BR": "TRANSLATE"
+        },
+        "reward_type_7" : {
+                "NL": "Charged TM:Charged TMs",
+                "DE": "TRANSLATE",
+                "EN": "Charged TM:Charged TMs",
+                "PT-BR": "TRANSLATE"
+        },
+        "reward_type_8" : {
+                "NL": "Potion:Potions",
+                "DE": "TRANSLATE",
+                "EN": "Potion:Potions",
+                "PT-BR": "TRANSLATE"
+        },
+        "reward_type_9" : {
+                "NL": "XP:XP",
+                "DE": "TRANSLATE",
+                "EN": "XP:XP",
+                "PT-BR": "TRANSLATE"
+        },
+        "reward_type_10" : {
+                "NL": "Revive:Revives",
+                "DE": "TRANSLATE",
+                "EN": "Revive:Revives",
                 "PT-BR": "TRANSLATE"
         }
 }
